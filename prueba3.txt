@@ -1,2 +1,0 @@
-Prueba de la creacion de una rama.
-Estamos modificando ficheros y añadiendo nuevos para entender el comportamiento de los branch
